@@ -1,0 +1,46 @@
+name: Data Pipeline
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Runs weekly on Sunday at 00:00
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          version: "latest"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: ".python-version"
+
+      - name: Install dependencies and Playwright
+        run: |
+          uv sync
+          uv run playwright install chromium --with-deps
+
+      - name: Run data pipeline
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          uv run python scrape.py
+          uv run python process.py
+          uv run python make_csv.py
+          uv run python score.py
+          uv run python build_site_data.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Automated data pipeline update" || exit 0
+          git push

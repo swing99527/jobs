@@ -56,22 +56,35 @@ OPENROUTER_API_KEY=your_key_here
 
 ## Usage
 
+There is a complete pipeline of Python scripts for recreating this dataset.
 ```bash
-# Scrape BLS pages (only needed once, results are cached in html/)
-uv run python scrape.py
-
-# Generate Markdown from HTML
-uv run python process.py
-
-# Generate CSV summary
-uv run python make_csv.py
-
-# Score AI exposure (uses OpenRouter API)
-uv run python score.py
-
-# Build website data
-uv run python build_site_data.py
-
-# Serve the site locally
-cd site && python -m http.server 8000
+uv sync # install python dependencies
+uv run playwright install chromium # playwright requirement
+uv run python scrape.py # scrape the data from BLS OOH site
+uv run python process.py # process the scraped html into json representation
+uv run python make_csv.py # flatten into a single csv
+uv run python score.py # evaluate the occupations by digital exposure
+uv run python build_site_data.py # package for the frontend
 ```
+These scripts will re-generate `data.json` and dump it into `web/public/data.json`.
+
+## Next.js Frontend
+
+The visualization is built with Next.js and Tailwind CSS in the `web/` directory.
+
+To run locally:
+```bash
+cd web
+npm install
+npm run dev
+```
+
+## Cloudflare Deployment
+
+This project is configured to be deployed as a static site on Cloudflare Pages.
+When configuring the project in the Cloudflare dashboard:
+- **Build command:** `npm run build`
+- **Build output directory:** `out`
+- **Root directory:** `web`
+
+The background data pipeline is automated via GitHub Actions (`.github/workflows/data_pipeline.yml`), which automatically runs the Python scripts and directly commits data updates back to the repo, triggering Cloudflare Pages to rebuild and deploy the latest data seamlessly.

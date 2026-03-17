@@ -43,11 +43,11 @@ def main():
         })
 
     import os
-    os.makedirs("site", exist_ok=True)
-    with open("site/data.json", "w") as f:
+    os.makedirs("web/public", exist_ok=True)
+    with open("web/public/data.json", "w") as f:
         json.dump(data, f)
 
-    print(f"Wrote {len(data)} occupations to site/data.json")
+    print(f"Wrote {len(data)} occupations to web/public/data.json")
     total_jobs = sum(d["jobs"] for d in data if d["jobs"])
     print(f"Total jobs represented: {total_jobs:,}")
 
