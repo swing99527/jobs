@@ -1,1 +1,1712 @@
-[]
+[
+  {
+    "slug": "accountants-and-auditors",
+    "title": "Accountants and auditors",
+    "title_zh": "Accountants and auditors"
+  },
+  {
+    "slug": "actors",
+    "title": "Actors",
+    "title_zh": "Actors"
+  },
+  {
+    "slug": "actuaries",
+    "title": "Actuaries",
+    "title_zh": "Actuaries"
+  },
+  {
+    "slug": "administrative-services-managers",
+    "title": "Administrative services and facilities managers",
+    "title_zh": "Administrative services and facilities managers"
+  },
+  {
+    "slug": "adult-literacy-and-ged-teachers",
+    "title": "Adult basic and secondary education and ESL teachers",
+    "title_zh": "Adult basic and secondary education and ESL teachers"
+  },
+  {
+    "slug": "advertising-sales-agents",
+    "title": "Advertising sales agents",
+    "title_zh": "Advertising sales agents"
+  },
+  {
+    "slug": "advertising-promotions-and-marketing-managers",
+    "title": "Advertising, promotions, and marketing managers",
+    "title_zh": "Advertising, promotions, and marketing managers"
+  },
+  {
+    "slug": "aerospace-engineering-and-operations-technicians",
+    "title": "Aerospace engineering and operations technologists and technicians",
+    "title_zh": "Aerospace engineering and operations technologists and technicians"
+  },
+  {
+    "slug": "aerospace-engineers",
+    "title": "Aerospace engineers",
+    "title_zh": "Aerospace engineers"
+  },
+  {
+    "slug": "agricultural-and-food-science-technicians",
+    "title": "Agricultural and food science technicians",
+    "title_zh": "Agricultural and food science technicians"
+  },
+  {
+    "slug": "agricultural-and-food-scientists",
+    "title": "Agricultural and food scientists",
+    "title_zh": "Agricultural and food scientists"
+  },
+  {
+    "slug": "agricultural-engineers",
+    "title": "Agricultural engineers",
+    "title_zh": "Agricultural engineers"
+  },
+  {
+    "slug": "agricultural-workers",
+    "title": "Agricultural workers",
+    "title_zh": "Agricultural workers"
+  },
+  {
+    "slug": "air-traffic-controllers",
+    "title": "Air traffic controllers",
+    "title_zh": "Air traffic controllers"
+  },
+  {
+    "slug": "aircraft-and-avionics-equipment-mechanics-and-technicians",
+    "title": "Aircraft and avionics equipment mechanics and technicians",
+    "title_zh": "Aircraft and avionics equipment mechanics and technicians"
+  },
+  {
+    "slug": "airline-and-commercial-pilots",
+    "title": "Airline and commercial pilots",
+    "title_zh": "Airline and commercial pilots"
+  },
+  {
+    "slug": "animal-care-and-service-workers",
+    "title": "Animal care and service workers",
+    "title_zh": "Animal care and service workers"
+  },
+  {
+    "slug": "announcers",
+    "title": "Announcers and DJs",
+    "title_zh": "Announcers and DJs"
+  },
+  {
+    "slug": "anthropologists-and-archeologists",
+    "title": "Anthropologists and archeologists",
+    "title_zh": "Anthropologists and archeologists"
+  },
+  {
+    "slug": "arbitrators-mediators-and-conciliators",
+    "title": "Arbitrators, mediators, and conciliators",
+    "title_zh": "Arbitrators, mediators, and conciliators"
+  },
+  {
+    "slug": "architects",
+    "title": "Architects",
+    "title_zh": "Architects"
+  },
+  {
+    "slug": "architectural-and-engineering-managers",
+    "title": "Architectural and engineering managers",
+    "title_zh": "Architectural and engineering managers"
+  },
+  {
+    "slug": "curators-museum-technicians-and-conservators",
+    "title": "Archivists, curators, and museum workers",
+    "title_zh": "Archivists, curators, and museum workers"
+  },
+  {
+    "slug": "art-directors",
+    "title": "Art directors",
+    "title_zh": "Art directors"
+  },
+  {
+    "slug": "assemblers-and-fabricators",
+    "title": "Assemblers and fabricators",
+    "title_zh": "Assemblers and fabricators"
+  },
+  {
+    "slug": "athletes-and-sports-competitors",
+    "title": "Athletes and sports competitors",
+    "title_zh": "Athletes and sports competitors"
+  },
+  {
+    "slug": "athletic-trainers",
+    "title": "Athletic trainers",
+    "title_zh": "Athletic trainers"
+  },
+  {
+    "slug": "atmospheric-scientists-including-meteorologists",
+    "title": "Atmospheric scientists, including meteorologists",
+    "title_zh": "Atmospheric scientists, including meteorologists"
+  },
+  {
+    "slug": "audiologists",
+    "title": "Audiologists",
+    "title_zh": "Audiologists"
+  },
+  {
+    "slug": "automotive-body-and-glass-repairers",
+    "title": "Automotive body and glass repairers",
+    "title_zh": "Automotive body and glass repairers"
+  },
+  {
+    "slug": "automotive-service-technicians-and-mechanics",
+    "title": "Automotive service technicians and mechanics",
+    "title_zh": "Automotive service technicians and mechanics"
+  },
+  {
+    "slug": "bakers",
+    "title": "Bakers",
+    "title_zh": "Bakers"
+  },
+  {
+    "slug": "barbers-hairstylists-and-cosmetologists",
+    "title": "Barbers, hairstylists, and cosmetologists",
+    "title_zh": "Barbers, hairstylists, and cosmetologists"
+  },
+  {
+    "slug": "bartenders",
+    "title": "Bartenders",
+    "title_zh": "Bartenders"
+  },
+  {
+    "slug": "bill-and-account-collectors",
+    "title": "Bill and account collectors",
+    "title_zh": "Bill and account collectors"
+  },
+  {
+    "slug": "biochemists-and-biophysicists",
+    "title": "Biochemists and biophysicists",
+    "title_zh": "Biochemists and biophysicists"
+  },
+  {
+    "slug": "biomedical-engineers",
+    "title": "Bioengineers and biomedical engineers",
+    "title_zh": "Bioengineers and biomedical engineers"
+  },
+  {
+    "slug": "biological-technicians",
+    "title": "Biological technicians",
+    "title_zh": "Biological technicians"
+  },
+  {
+    "slug": "boilermakers",
+    "title": "Boilermakers",
+    "title_zh": "Boilermakers"
+  },
+  {
+    "slug": "bookkeeping-accounting-and-auditing-clerks",
+    "title": "Bookkeeping, accounting, and auditing clerks",
+    "title_zh": "Bookkeeping, accounting, and auditing clerks"
+  },
+  {
+    "slug": "broadcast-and-sound-engineering-technicians",
+    "title": "Broadcast, sound, and video technicians",
+    "title_zh": "Broadcast, sound, and video technicians"
+  },
+  {
+    "slug": "budget-analysts",
+    "title": "Budget analysts",
+    "title_zh": "Budget analysts"
+  },
+  {
+    "slug": "bus-drivers",
+    "title": "Bus drivers",
+    "title_zh": "Bus drivers"
+  },
+  {
+    "slug": "butchers-and-meat-cutters",
+    "title": "Butchers",
+    "title_zh": "Butchers"
+  },
+  {
+    "slug": "calibration-technologists-and-technicians",
+    "title": "Calibration technologists and technicians",
+    "title_zh": "Calibration technologists and technicians"
+  },
+  {
+    "slug": "cardiovascular-technologists-and-technicians",
+    "title": "Cardiovascular technologists and technicians",
+    "title_zh": "Cardiovascular technologists and technicians"
+  },
+  {
+    "slug": "career-and-technical-education-teachers",
+    "title": "Career and technical education teachers",
+    "title_zh": "Career and technical education teachers"
+  },
+  {
+    "slug": "carpenters",
+    "title": "Carpenters",
+    "title_zh": "Carpenters"
+  },
+  {
+    "slug": "cartographers-and-photogrammetrists",
+    "title": "Cartographers and photogrammetrists",
+    "title_zh": "Cartographers and photogrammetrists"
+  },
+  {
+    "slug": "cashiers",
+    "title": "Cashiers",
+    "title_zh": "Cashiers"
+  },
+  {
+    "slug": "chefs-and-head-cooks",
+    "title": "Chefs and head cooks",
+    "title_zh": "Chefs and head cooks"
+  },
+  {
+    "slug": "chemical-engineers",
+    "title": "Chemical engineers",
+    "title_zh": "Chemical engineers"
+  },
+  {
+    "slug": "chemical-technicians",
+    "title": "Chemical technicians",
+    "title_zh": "Chemical technicians"
+  },
+  {
+    "slug": "chemists-and-materials-scientists",
+    "title": "Chemists and materials scientists",
+    "title_zh": "Chemists and materials scientists"
+  },
+  {
+    "slug": "childcare-workers",
+    "title": "Childcare workers",
+    "title_zh": "Childcare workers"
+  },
+  {
+    "slug": "chiropractors",
+    "title": "Chiropractors",
+    "title_zh": "Chiropractors"
+  },
+  {
+    "slug": "civil-engineering-technicians",
+    "title": "Civil engineering technologists and technicians",
+    "title_zh": "Civil engineering technologists and technicians"
+  },
+  {
+    "slug": "civil-engineers",
+    "title": "Civil engineers",
+    "title_zh": "Civil engineers"
+  },
+  {
+    "slug": "claims-adjusters-appraisers-examiners-and-investigators",
+    "title": "Claims adjusters, appraisers, examiners, and investigators",
+    "title_zh": "Claims adjusters, appraisers, examiners, and investigators"
+  },
+  {
+    "slug": "clinical-laboratory-technologists-and-technicians",
+    "title": "Clinical laboratory technologists and technicians",
+    "title_zh": "Clinical laboratory technologists and technicians"
+  },
+  {
+    "slug": "coaches-and-scouts",
+    "title": "Coaches and scouts",
+    "title_zh": "Coaches and scouts"
+  },
+  {
+    "slug": "community-health-workers",
+    "title": "Community health workers",
+    "title_zh": "Community health workers"
+  },
+  {
+    "slug": "compensation-and-benefits-managers",
+    "title": "Compensation and benefits managers",
+    "title_zh": "Compensation and benefits managers"
+  },
+  {
+    "slug": "compensation-benefits-and-job-analysis-specialists",
+    "title": "Compensation, benefits, and job analysis specialists",
+    "title_zh": "Compensation, benefits, and job analysis specialists"
+  },
+  {
+    "slug": "compliance-officers",
+    "title": "Compliance officers",
+    "title_zh": "Compliance officers"
+  },
+  {
+    "slug": "computer-and-information-research-scientists",
+    "title": "Computer and information research scientists",
+    "title_zh": "Computer and information research scientists"
+  },
+  {
+    "slug": "computer-and-information-systems-managers",
+    "title": "Computer and information systems managers",
+    "title_zh": "Computer and information systems managers"
+  },
+  {
+    "slug": "computer-hardware-engineers",
+    "title": "Computer hardware engineers",
+    "title_zh": "Computer hardware engineers"
+  },
+  {
+    "slug": "computer-network-architects",
+    "title": "Computer network architects",
+    "title_zh": "Computer network architects"
+  },
+  {
+    "slug": "computer-programmers",
+    "title": "Computer programmers",
+    "title_zh": "Computer programmers"
+  },
+  {
+    "slug": "computer-support-specialists",
+    "title": "Computer support specialists",
+    "title_zh": "Computer support specialists"
+  },
+  {
+    "slug": "computer-systems-analysts",
+    "title": "Computer systems analysts",
+    "title_zh": "Computer systems analysts"
+  },
+  {
+    "slug": "concierges",
+    "title": "Concierges",
+    "title_zh": "Concierges"
+  },
+  {
+    "slug": "conservation-scientists",
+    "title": "Conservation scientists and foresters",
+    "title_zh": "Conservation scientists and foresters"
+  },
+  {
+    "slug": "construction-and-building-inspectors",
+    "title": "Construction and building inspectors",
+    "title_zh": "Construction and building inspectors"
+  },
+  {
+    "slug": "construction-equipment-operators",
+    "title": "Construction equipment operators",
+    "title_zh": "Construction equipment operators"
+  },
+  {
+    "slug": "construction-laborers-and-helpers",
+    "title": "Construction laborers and helpers",
+    "title_zh": "Construction laborers and helpers"
+  },
+  {
+    "slug": "construction-managers",
+    "title": "Construction managers",
+    "title_zh": "Construction managers"
+  },
+  {
+    "slug": "cooks",
+    "title": "Cooks",
+    "title_zh": "Cooks"
+  },
+  {
+    "slug": "correctional-officers",
+    "title": "Correctional officers and bailiffs",
+    "title_zh": "Correctional officers and bailiffs"
+  },
+  {
+    "slug": "cost-estimators",
+    "title": "Cost estimators",
+    "title_zh": "Cost estimators"
+  },
+  {
+    "slug": "court-reporters",
+    "title": "Court reporters and simultaneous captioners",
+    "title_zh": "Court reporters and simultaneous captioners"
+  },
+  {
+    "slug": "craft-and-fine-artists",
+    "title": "Craft and fine artists",
+    "title_zh": "Craft and fine artists"
+  },
+  {
+    "slug": "credit-counselors",
+    "title": "Credit counselors",
+    "title_zh": "Credit counselors"
+  },
+  {
+    "slug": "customer-service-representatives",
+    "title": "Customer service representatives",
+    "title_zh": "Customer service representatives"
+  },
+  {
+    "slug": "dancers-and-choreographers",
+    "title": "Dancers and choreographers",
+    "title_zh": "Dancers and choreographers"
+  },
+  {
+    "slug": "data-scientists",
+    "title": "Data scientists",
+    "title_zh": "Data scientists"
+  },
+  {
+    "slug": "database-administrators",
+    "title": "Database administrators and architects",
+    "title_zh": "Database administrators and architects"
+  },
+  {
+    "slug": "delivery-truck-drivers-and-driver-sales-workers",
+    "title": "Delivery truck drivers and driver/sales workers",
+    "title_zh": "Delivery truck drivers and driver/sales workers"
+  },
+  {
+    "slug": "dental-and-ophthalmic-laboratory-technicians-and-medical-appliance-technicians",
+    "title": "Dental and ophthalmic laboratory technicians and medical appliance technicians",
+    "title_zh": "Dental and ophthalmic laboratory technicians and medical appliance technicians"
+  },
+  {
+    "slug": "dental-assistants",
+    "title": "Dental assistants",
+    "title_zh": "Dental assistants"
+  },
+  {
+    "slug": "dental-hygienists",
+    "title": "Dental hygienists",
+    "title_zh": "Dental hygienists"
+  },
+  {
+    "slug": "dentists",
+    "title": "Dentists",
+    "title_zh": "Dentists"
+  },
+  {
+    "slug": "desktop-publishers",
+    "title": "Desktop publishers",
+    "title_zh": "Desktop publishers"
+  },
+  {
+    "slug": "diagnostic-medical-sonographers",
+    "title": "Diagnostic medical sonographers",
+    "title_zh": "Diagnostic medical sonographers"
+  },
+  {
+    "slug": "diesel-service-technicians-and-mechanics",
+    "title": "Diesel service technicians and mechanics",
+    "title_zh": "Diesel service technicians and mechanics"
+  },
+  {
+    "slug": "dietitians-and-nutritionists",
+    "title": "Dietitians and nutritionists",
+    "title_zh": "Dietitians and nutritionists"
+  },
+  {
+    "slug": "drafters",
+    "title": "Drafters",
+    "title_zh": "Drafters"
+  },
+  {
+    "slug": "drywall-and-ceiling-tile-installers-and-tapers",
+    "title": "Drywall installers, ceiling tile installers, and tapers",
+    "title_zh": "Drywall installers, ceiling tile installers, and tapers"
+  },
+  {
+    "slug": "economists",
+    "title": "Economists",
+    "title_zh": "Economists"
+  },
+  {
+    "slug": "editors",
+    "title": "Editors",
+    "title_zh": "Editors"
+  },
+  {
+    "slug": "electrical-and-electronics-engineering-technicians",
+    "title": "Electrical and electronic engineering technologists and technicians",
+    "title_zh": "Electrical and electronic engineering technologists and technicians"
+  },
+  {
+    "slug": "electrical-and-electronics-engineers",
+    "title": "Electrical and electronics engineers",
+    "title_zh": "Electrical and electronics engineers"
+  },
+  {
+    "slug": "electrical-and-electronics-installers-and-repairers",
+    "title": "Electrical and electronics installers and repairers",
+    "title_zh": "Electrical and electronics installers and repairers"
+  },
+  {
+    "slug": "line-installers-and-repairers",
+    "title": "Electrical power-line installers and repairers",
+    "title_zh": "Electrical power-line installers and repairers"
+  },
+  {
+    "slug": "electricians",
+    "title": "Electricians",
+    "title_zh": "Electricians"
+  },
+  {
+    "slug": "electro-mechanical-technicians",
+    "title": "Electro-mechanical and mechatronics technologists and technicians",
+    "title_zh": "Electro-mechanical and mechatronics technologists and technicians"
+  },
+  {
+    "slug": "elementary-middle-and-high-school-principals",
+    "title": "Elementary, middle, and high school principals",
+    "title_zh": "Elementary, middle, and high school principals"
+  },
+  {
+    "slug": "elevator-installers-and-repairers",
+    "title": "Elevator and escalator installers and repairers",
+    "title_zh": "Elevator and escalator installers and repairers"
+  },
+  {
+    "slug": "emergency-management-directors",
+    "title": "Emergency management directors",
+    "title_zh": "Emergency management directors"
+  },
+  {
+    "slug": "emts-and-paramedics",
+    "title": "EMTs and paramedics",
+    "title_zh": "EMTs and paramedics"
+  },
+  {
+    "slug": "entertainment-and-recreation-managers",
+    "title": "Entertainment and recreation managers",
+    "title_zh": "Entertainment and recreation managers"
+  },
+  {
+    "slug": "environmental-engineering-technicians",
+    "title": "Environmental engineering technologists and technicians",
+    "title_zh": "Environmental engineering technologists and technicians"
+  },
+  {
+    "slug": "environmental-engineers",
+    "title": "Environmental engineers",
+    "title_zh": "Environmental engineers"
+  },
+  {
+    "slug": "environmental-science-and-protection-technicians",
+    "title": "Environmental science and protection technicians",
+    "title_zh": "Environmental science and protection technicians"
+  },
+  {
+    "slug": "environmental-scientists-and-specialists",
+    "title": "Environmental scientists and specialists",
+    "title_zh": "Environmental scientists and specialists"
+  },
+  {
+    "slug": "epidemiologists",
+    "title": "Epidemiologists",
+    "title_zh": "Epidemiologists"
+  },
+  {
+    "slug": "exercise-physiologists",
+    "title": "Exercise physiologists",
+    "title_zh": "Exercise physiologists"
+  },
+  {
+    "slug": "farmers-ranchers-and-other-agricultural-managers",
+    "title": "Farmers, ranchers, and other agricultural managers",
+    "title_zh": "Farmers, ranchers, and other agricultural managers"
+  },
+  {
+    "slug": "fashion-designers",
+    "title": "Fashion designers",
+    "title_zh": "Fashion designers"
+  },
+  {
+    "slug": "film-and-video-editors-and-camera-operators",
+    "title": "Film and video editors and camera operators",
+    "title_zh": "Film and video editors and camera operators"
+  },
+  {
+    "slug": "financial-analysts",
+    "title": "Financial analysts",
+    "title_zh": "Financial analysts"
+  },
+  {
+    "slug": "financial-clerks",
+    "title": "Financial clerks",
+    "title_zh": "Financial clerks"
+  },
+  {
+    "slug": "financial-examiners",
+    "title": "Financial examiners",
+    "title_zh": "Financial examiners"
+  },
+  {
+    "slug": "financial-managers",
+    "title": "Financial managers",
+    "title_zh": "Financial managers"
+  },
+  {
+    "slug": "fire-inspectors-and-investigators",
+    "title": "Fire inspectors",
+    "title_zh": "Fire inspectors"
+  },
+  {
+    "slug": "firefighters",
+    "title": "Firefighters",
+    "title_zh": "Firefighters"
+  },
+  {
+    "slug": "fishers-and-related-fishing-workers",
+    "title": "Fishing and hunting workers",
+    "title_zh": "Fishing and hunting workers"
+  },
+  {
+    "slug": "fitness-trainers-and-instructors",
+    "title": "Fitness trainers and instructors",
+    "title_zh": "Fitness trainers and instructors"
+  },
+  {
+    "slug": "flight-attendants",
+    "title": "Flight attendants",
+    "title_zh": "Flight attendants"
+  },
+  {
+    "slug": "tile-and-marble-setters",
+    "title": "Flooring installers and tile and stone setters",
+    "title_zh": "Flooring installers and tile and stone setters"
+  },
+  {
+    "slug": "floral-designers",
+    "title": "Floral designers",
+    "title_zh": "Floral designers"
+  },
+  {
+    "slug": "food-and-beverage-serving-and-related-workers",
+    "title": "Food and beverage serving and related workers",
+    "title_zh": "Food and beverage serving and related workers"
+  },
+  {
+    "slug": "food-preparation-workers",
+    "title": "Food preparation workers",
+    "title_zh": "Food preparation workers"
+  },
+  {
+    "slug": "food-and-tobacco-processing-workers",
+    "title": "Food processing equipment workers",
+    "title_zh": "Food processing equipment workers"
+  },
+  {
+    "slug": "food-service-managers",
+    "title": "Food service managers",
+    "title_zh": "Food service managers"
+  },
+  {
+    "slug": "forensic-science-technicians",
+    "title": "Forensic science technicians",
+    "title_zh": "Forensic science technicians"
+  },
+  {
+    "slug": "forest-and-conservation-workers",
+    "title": "Forest and conservation workers",
+    "title_zh": "Forest and conservation workers"
+  },
+  {
+    "slug": "fundraisers",
+    "title": "Fundraisers",
+    "title_zh": "Fundraisers"
+  },
+  {
+    "slug": "funeral-service-occupations",
+    "title": "Funeral service workers",
+    "title_zh": "Funeral service workers"
+  },
+  {
+    "slug": "gaming-services-occupations",
+    "title": "Gambling services workers",
+    "title_zh": "Gambling services workers"
+  },
+  {
+    "slug": "general-maintenance-and-repair-workers",
+    "title": "General maintenance and repair workers",
+    "title_zh": "General maintenance and repair workers"
+  },
+  {
+    "slug": "general-office-clerks",
+    "title": "General office clerks",
+    "title_zh": "General office clerks"
+  },
+  {
+    "slug": "genetic-counselors",
+    "title": "Genetic counselors",
+    "title_zh": "Genetic counselors"
+  },
+  {
+    "slug": "geographers",
+    "title": "Geographers",
+    "title_zh": "Geographers"
+  },
+  {
+    "slug": "geological-and-petroleum-technicians",
+    "title": "Geological and hydrologic technicians",
+    "title_zh": "Geological and hydrologic technicians"
+  },
+  {
+    "slug": "geoscientists",
+    "title": "Geoscientists",
+    "title_zh": "Geoscientists"
+  },
+  {
+    "slug": "glaziers",
+    "title": "Glaziers",
+    "title_zh": "Glaziers"
+  },
+  {
+    "slug": "graphic-designers",
+    "title": "Graphic designers",
+    "title_zh": "Graphic designers"
+  },
+  {
+    "slug": "grounds-maintenance-workers",
+    "title": "Grounds maintenance workers",
+    "title_zh": "Grounds maintenance workers"
+  },
+  {
+    "slug": "hand-laborers-and-material-movers",
+    "title": "Hand laborers and material movers",
+    "title_zh": "Hand laborers and material movers"
+  },
+  {
+    "slug": "hazardous-materials-removal-workers",
+    "title": "Hazardous materials removal workers",
+    "title_zh": "Hazardous materials removal workers"
+  },
+  {
+    "slug": "health-and-safety-engineers",
+    "title": "Health and safety engineers",
+    "title_zh": "Health and safety engineers"
+  },
+  {
+    "slug": "health-educators",
+    "title": "Health education specialists",
+    "title_zh": "Health education specialists"
+  },
+  {
+    "slug": "health-information-technologists-and-medical-registrars",
+    "title": "Health information technologists and medical registrars",
+    "title_zh": "Health information technologists and medical registrars"
+  },
+  {
+    "slug": "heating-air-conditioning-and-refrigeration-mechanics-and-installers",
+    "title": "Heating, air conditioning, and refrigeration mechanics and installers",
+    "title_zh": "Heating, air conditioning, and refrigeration mechanics and installers"
+  },
+  {
+    "slug": "heavy-and-tractor-trailer-truck-drivers",
+    "title": "Heavy and tractor-trailer truck drivers",
+    "title_zh": "Heavy and tractor-trailer truck drivers"
+  },
+  {
+    "slug": "heavy-vehicle-and-mobile-equipment-service-technicians",
+    "title": "Heavy vehicle and mobile equipment service technicians",
+    "title_zh": "Heavy vehicle and mobile equipment service technicians"
+  },
+  {
+    "slug": "high-school-teachers",
+    "title": "High school teachers",
+    "title_zh": "High school teachers"
+  },
+  {
+    "slug": "historians",
+    "title": "Historians",
+    "title_zh": "Historians"
+  },
+  {
+    "slug": "home-health-aides-and-personal-care-aides",
+    "title": "Home health and personal care aides",
+    "title_zh": "Home health and personal care aides"
+  },
+  {
+    "slug": "human-resources-managers",
+    "title": "Human resources managers",
+    "title_zh": "Human resources managers"
+  },
+  {
+    "slug": "human-resources-specialists",
+    "title": "Human resources specialists",
+    "title_zh": "Human resources specialists"
+  },
+  {
+    "slug": "hydrologists",
+    "title": "Hydrologists",
+    "title_zh": "Hydrologists"
+  },
+  {
+    "slug": "industrial-designers",
+    "title": "Industrial designers",
+    "title_zh": "Industrial designers"
+  },
+  {
+    "slug": "industrial-engineering-technicians",
+    "title": "Industrial engineering technologists and technicians",
+    "title_zh": "Industrial engineering technologists and technicians"
+  },
+  {
+    "slug": "industrial-engineers",
+    "title": "Industrial engineers",
+    "title_zh": "Industrial engineers"
+  },
+  {
+    "slug": "industrial-machinery-mechanics-and-maintenance-workers-and-millwrights",
+    "title": "Industrial machinery mechanics, machinery maintenance workers, and millwrights",
+    "title_zh": "Industrial machinery mechanics, machinery maintenance workers, and millwrights"
+  },
+  {
+    "slug": "industrial-production-managers",
+    "title": "Industrial production managers",
+    "title_zh": "Industrial production managers"
+  },
+  {
+    "slug": "information-clerks",
+    "title": "Information clerks",
+    "title_zh": "Information clerks"
+  },
+  {
+    "slug": "information-security-analysts",
+    "title": "Information security analysts",
+    "title_zh": "Information security analysts"
+  },
+  {
+    "slug": "instructional-coordinators",
+    "title": "Instructional coordinators",
+    "title_zh": "Instructional coordinators"
+  },
+  {
+    "slug": "insulation-workers",
+    "title": "Insulation workers",
+    "title_zh": "Insulation workers"
+  },
+  {
+    "slug": "insurance-sales-agents",
+    "title": "Insurance sales agents",
+    "title_zh": "Insurance sales agents"
+  },
+  {
+    "slug": "insurance-underwriters",
+    "title": "Insurance underwriters",
+    "title_zh": "Insurance underwriters"
+  },
+  {
+    "slug": "interior-designers",
+    "title": "Interior designers",
+    "title_zh": "Interior designers"
+  },
+  {
+    "slug": "interpreters-and-translators",
+    "title": "Interpreters and translators",
+    "title_zh": "Interpreters and translators"
+  },
+  {
+    "slug": "structural-iron-and-steel-workers",
+    "title": "Ironworkers",
+    "title_zh": "Ironworkers"
+  },
+  {
+    "slug": "janitors-and-building-cleaners",
+    "title": "Janitors and building cleaners",
+    "title_zh": "Janitors and building cleaners"
+  },
+  {
+    "slug": "jewelers-and-precious-stone-and-metal-workers",
+    "title": "Jewelers and precious stone and metal workers",
+    "title_zh": "Jewelers and precious stone and metal workers"
+  },
+  {
+    "slug": "judges-and-hearing-officers",
+    "title": "Judges and hearing officers",
+    "title_zh": "Judges and hearing officers"
+  },
+  {
+    "slug": "kindergarten-and-elementary-school-teachers",
+    "title": "Kindergarten and elementary school teachers",
+    "title_zh": "Kindergarten and elementary school teachers"
+  },
+  {
+    "slug": "labor-relations-specialists",
+    "title": "Labor relations specialists",
+    "title_zh": "Labor relations specialists"
+  },
+  {
+    "slug": "landscape-architects",
+    "title": "Landscape architects",
+    "title_zh": "Landscape architects"
+  },
+  {
+    "slug": "lawyers",
+    "title": "Lawyers",
+    "title_zh": "Lawyers"
+  },
+  {
+    "slug": "librarians",
+    "title": "Librarians and library media specialists",
+    "title_zh": "Librarians and library media specialists"
+  },
+  {
+    "slug": "library-technicians-and-assistants",
+    "title": "Library technicians and assistants",
+    "title_zh": "Library technicians and assistants"
+  },
+  {
+    "slug": "licensed-practical-and-licensed-vocational-nurses",
+    "title": "Licensed practical and licensed vocational nurses",
+    "title_zh": "Licensed practical and licensed vocational nurses"
+  },
+  {
+    "slug": "loan-officers",
+    "title": "Loan officers",
+    "title_zh": "Loan officers"
+  },
+  {
+    "slug": "lodging-managers",
+    "title": "Lodging managers",
+    "title_zh": "Lodging managers"
+  },
+  {
+    "slug": "logging-workers",
+    "title": "Logging workers",
+    "title_zh": "Logging workers"
+  },
+  {
+    "slug": "logisticians",
+    "title": "Logisticians",
+    "title_zh": "Logisticians"
+  },
+  {
+    "slug": "machinists-and-tool-and-die-makers",
+    "title": "Machinists and tool and die makers",
+    "title_zh": "Machinists and tool and die makers"
+  },
+  {
+    "slug": "management-analysts",
+    "title": "Management analysts",
+    "title_zh": "Management analysts"
+  },
+  {
+    "slug": "manicurists-and-pedicurists",
+    "title": "Manicurists and pedicurists",
+    "title_zh": "Manicurists and pedicurists"
+  },
+  {
+    "slug": "marine-engineers-and-naval-architects",
+    "title": "Marine engineers and naval architects",
+    "title_zh": "Marine engineers and naval architects"
+  },
+  {
+    "slug": "market-research-analysts",
+    "title": "Market research analysts",
+    "title_zh": "Market research analysts"
+  },
+  {
+    "slug": "marriage-and-family-therapists",
+    "title": "Marriage and family therapists",
+    "title_zh": "Marriage and family therapists"
+  },
+  {
+    "slug": "brickmasons-blockmasons-and-stonemasons",
+    "title": "Masonry workers",
+    "title_zh": "Masonry workers"
+  },
+  {
+    "slug": "massage-therapists",
+    "title": "Massage therapists",
+    "title_zh": "Massage therapists"
+  },
+  {
+    "slug": "material-moving-machine-operators",
+    "title": "Material moving machine operators",
+    "title_zh": "Material moving machine operators"
+  },
+  {
+    "slug": "material-recording-clerks",
+    "title": "Material recording clerks",
+    "title_zh": "Material recording clerks"
+  },
+  {
+    "slug": "materials-engineers",
+    "title": "Materials engineers",
+    "title_zh": "Materials engineers"
+  },
+  {
+    "slug": "mathematicians-and-statisticians",
+    "title": "Mathematicians and statisticians",
+    "title_zh": "Mathematicians and statisticians"
+  },
+  {
+    "slug": "mechanical-engineering-technicians",
+    "title": "Mechanical engineering technologists and technicians",
+    "title_zh": "Mechanical engineering technologists and technicians"
+  },
+  {
+    "slug": "mechanical-engineers",
+    "title": "Mechanical engineers",
+    "title_zh": "Mechanical engineers"
+  },
+  {
+    "slug": "medical-and-health-services-managers",
+    "title": "Medical and health services managers",
+    "title_zh": "Medical and health services managers"
+  },
+  {
+    "slug": "medical-assistants",
+    "title": "Medical assistants",
+    "title_zh": "Medical assistants"
+  },
+  {
+    "slug": "medical-dosimetrists",
+    "title": "Medical dosimetrists",
+    "title_zh": "Medical dosimetrists"
+  },
+  {
+    "slug": "medical-equipment-repairers",
+    "title": "Medical equipment repairers",
+    "title_zh": "Medical equipment repairers"
+  },
+  {
+    "slug": "medical-records-and-health-information-technicians",
+    "title": "Medical records specialists",
+    "title_zh": "Medical records specialists"
+  },
+  {
+    "slug": "medical-scientists",
+    "title": "Medical scientists",
+    "title_zh": "Medical scientists"
+  },
+  {
+    "slug": "medical-transcriptionists",
+    "title": "Medical transcriptionists",
+    "title_zh": "Medical transcriptionists"
+  },
+  {
+    "slug": "meeting-convention-and-event-planners",
+    "title": "Meeting, convention, and event planners",
+    "title_zh": "Meeting, convention, and event planners"
+  },
+  {
+    "slug": "metal-and-plastic-machine-workers",
+    "title": "Metal and plastic machine workers",
+    "title_zh": "Metal and plastic machine workers"
+  },
+  {
+    "slug": "microbiologists",
+    "title": "Microbiologists",
+    "title_zh": "Microbiologists"
+  },
+  {
+    "slug": "middle-school-teachers",
+    "title": "Middle school teachers",
+    "title_zh": "Middle school teachers"
+  },
+  {
+    "slug": "military-careers",
+    "title": "Military careers",
+    "title_zh": "Military careers"
+  },
+  {
+    "slug": "mining-and-geological-engineers",
+    "title": "Mining and geological engineers",
+    "title_zh": "Mining and geological engineers"
+  },
+  {
+    "slug": "models",
+    "title": "Models",
+    "title_zh": "Models"
+  },
+  {
+    "slug": "music-directors-and-composers",
+    "title": "Music directors and composers",
+    "title_zh": "Music directors and composers"
+  },
+  {
+    "slug": "musicians-and-singers",
+    "title": "Musicians and singers",
+    "title_zh": "Musicians and singers"
+  },
+  {
+    "slug": "natural-sciences-managers",
+    "title": "Natural sciences managers",
+    "title_zh": "Natural sciences managers"
+  },
+  {
+    "slug": "network-and-computer-systems-administrators",
+    "title": "Network and computer systems administrators",
+    "title_zh": "Network and computer systems administrators"
+  },
+  {
+    "slug": "reporters-correspondents-and-broadcast-news-analysts",
+    "title": "News analysts, reporters, and journalists",
+    "title_zh": "News analysts, reporters, and journalists"
+  },
+  {
+    "slug": "nuclear-engineers",
+    "title": "Nuclear engineers",
+    "title_zh": "Nuclear engineers"
+  },
+  {
+    "slug": "nuclear-medicine-technologists",
+    "title": "Nuclear medicine technologists",
+    "title_zh": "Nuclear medicine technologists"
+  },
+  {
+    "slug": "nuclear-technicians",
+    "title": "Nuclear technicians",
+    "title_zh": "Nuclear technicians"
+  },
+  {
+    "slug": "nurse-anesthetists-nurse-midwives-and-nurse-practitioners",
+    "title": "Nurse anesthetists, nurse midwives, and nurse practitioners",
+    "title_zh": "Nurse anesthetists, nurse midwives, and nurse practitioners"
+  },
+  {
+    "slug": "nursing-assistants",
+    "title": "Nursing assistants and orderlies",
+    "title_zh": "Nursing assistants and orderlies"
+  },
+  {
+    "slug": "occupational-health-and-safety-specialists-and-technicians",
+    "title": "Occupational health and safety specialists and technicians",
+    "title_zh": "Occupational health and safety specialists and technicians"
+  },
+  {
+    "slug": "occupational-therapists",
+    "title": "Occupational therapists",
+    "title_zh": "Occupational therapists"
+  },
+  {
+    "slug": "occupational-therapy-assistants-and-aides",
+    "title": "Occupational therapy assistants and aides",
+    "title_zh": "Occupational therapy assistants and aides"
+  },
+  {
+    "slug": "oil-and-gas-workers",
+    "title": "Oil and gas workers",
+    "title_zh": "Oil and gas workers"
+  },
+  {
+    "slug": "operations-research-analysts",
+    "title": "Operations research analysts",
+    "title_zh": "Operations research analysts"
+  },
+  {
+    "slug": "opticians-dispensing",
+    "title": "Opticians",
+    "title_zh": "Opticians"
+  },
+  {
+    "slug": "optometrists",
+    "title": "Optometrists",
+    "title_zh": "Optometrists"
+  },
+  {
+    "slug": "orthotists-and-prosthetists",
+    "title": "Orthotists and prosthetists",
+    "title_zh": "Orthotists and prosthetists"
+  },
+  {
+    "slug": "painters-construction-and-maintenance",
+    "title": "Painters, construction and maintenance",
+    "title_zh": "Painters, construction and maintenance"
+  },
+  {
+    "slug": "painting-and-coating-workers",
+    "title": "Painting and coating workers",
+    "title_zh": "Painting and coating workers"
+  },
+  {
+    "slug": "paralegals-and-legal-assistants",
+    "title": "Paralegals and legal assistants",
+    "title_zh": "Paralegals and legal assistants"
+  },
+  {
+    "slug": "personal-financial-advisors",
+    "title": "Personal financial advisors",
+    "title_zh": "Personal financial advisors"
+  },
+  {
+    "slug": "pest-control-workers",
+    "title": "Pest control workers",
+    "title_zh": "Pest control workers"
+  },
+  {
+    "slug": "petroleum-engineers",
+    "title": "Petroleum engineers",
+    "title_zh": "Petroleum engineers"
+  },
+  {
+    "slug": "pharmacists",
+    "title": "Pharmacists",
+    "title_zh": "Pharmacists"
+  },
+  {
+    "slug": "pharmacy-technicians",
+    "title": "Pharmacy technicians",
+    "title_zh": "Pharmacy technicians"
+  },
+  {
+    "slug": "phlebotomists",
+    "title": "Phlebotomists",
+    "title_zh": "Phlebotomists"
+  },
+  {
+    "slug": "photographers",
+    "title": "Photographers",
+    "title_zh": "Photographers"
+  },
+  {
+    "slug": "physical-therapist-assistants-and-aides",
+    "title": "Physical therapist assistants and aides",
+    "title_zh": "Physical therapist assistants and aides"
+  },
+  {
+    "slug": "physical-therapists",
+    "title": "Physical therapists",
+    "title_zh": "Physical therapists"
+  },
+  {
+    "slug": "physician-assistants",
+    "title": "Physician assistants",
+    "title_zh": "Physician assistants"
+  },
+  {
+    "slug": "physicians-and-surgeons",
+    "title": "Physicians and surgeons",
+    "title_zh": "Physicians and surgeons"
+  },
+  {
+    "slug": "physicists-and-astronomers",
+    "title": "Physicists and astronomers",
+    "title_zh": "Physicists and astronomers"
+  },
+  {
+    "slug": "plumbers-pipefitters-and-steamfitters",
+    "title": "Plumbers, pipefitters, and steamfitters",
+    "title_zh": "Plumbers, pipefitters, and steamfitters"
+  },
+  {
+    "slug": "podiatrists",
+    "title": "Podiatrists",
+    "title_zh": "Podiatrists"
+  },
+  {
+    "slug": "police-and-detectives",
+    "title": "Police and detectives",
+    "title_zh": "Police and detectives"
+  },
+  {
+    "slug": "political-scientists",
+    "title": "Political scientists",
+    "title_zh": "Political scientists"
+  },
+  {
+    "slug": "postal-service-workers",
+    "title": "Postal service workers",
+    "title_zh": "Postal service workers"
+  },
+  {
+    "slug": "postsecondary-education-administrators",
+    "title": "Postsecondary education administrators",
+    "title_zh": "Postsecondary education administrators"
+  },
+  {
+    "slug": "postsecondary-teachers",
+    "title": "Postsecondary teachers",
+    "title_zh": "Postsecondary teachers"
+  },
+  {
+    "slug": "power-plant-operators-distributors-and-dispatchers",
+    "title": "Power plant operators, distributors, and dispatchers",
+    "title_zh": "Power plant operators, distributors, and dispatchers"
+  },
+  {
+    "slug": "preschool-and-childcare-center-directors",
+    "title": "Preschool and childcare center directors",
+    "title_zh": "Preschool and childcare center directors"
+  },
+  {
+    "slug": "preschool-teachers",
+    "title": "Preschool teachers",
+    "title_zh": "Preschool teachers"
+  },
+  {
+    "slug": "private-detectives-and-investigators",
+    "title": "Private detectives and investigators",
+    "title_zh": "Private detectives and investigators"
+  },
+  {
+    "slug": "probation-officers-and-correctional-treatment-specialists",
+    "title": "Probation officers and correctional treatment specialists",
+    "title_zh": "Probation officers and correctional treatment specialists"
+  },
+  {
+    "slug": "producers-and-directors",
+    "title": "Producers and directors",
+    "title_zh": "Producers and directors"
+  },
+  {
+    "slug": "project-management-specialists",
+    "title": "Project management specialists",
+    "title_zh": "Project management specialists"
+  },
+  {
+    "slug": "appraisers-and-assessors-of-real-estate",
+    "title": "Property appraisers and assessors",
+    "title_zh": "Property appraisers and assessors"
+  },
+  {
+    "slug": "property-real-estate-and-community-association-managers",
+    "title": "Property, real estate, and community association managers",
+    "title_zh": "Property, real estate, and community association managers"
+  },
+  {
+    "slug": "psychiatric-technicians-and-aides",
+    "title": "Psychiatric technicians and aides",
+    "title_zh": "Psychiatric technicians and aides"
+  },
+  {
+    "slug": "psychologists",
+    "title": "Psychologists",
+    "title_zh": "Psychologists"
+  },
+  {
+    "slug": "public-relations-managers",
+    "title": "Public relations and fundraising managers",
+    "title_zh": "Public relations and fundraising managers"
+  },
+  {
+    "slug": "public-relations-specialists",
+    "title": "Public relations specialists",
+    "title_zh": "Public relations specialists"
+  },
+  {
+    "slug": "police-fire-and-ambulance-dispatchers",
+    "title": "Public safety telecommunicators",
+    "title_zh": "Public safety telecommunicators"
+  },
+  {
+    "slug": "purchasing-managers-buyers-and-purchasing-agents",
+    "title": "Purchasing managers, buyers, and purchasing agents",
+    "title_zh": "Purchasing managers, buyers, and purchasing agents"
+  },
+  {
+    "slug": "quality-control-inspectors",
+    "title": "Quality control inspectors",
+    "title_zh": "Quality control inspectors"
+  },
+  {
+    "slug": "radiation-therapists",
+    "title": "Radiation therapists",
+    "title_zh": "Radiation therapists"
+  },
+  {
+    "slug": "radiologic-technologists",
+    "title": "Radiologic and MRI technologists",
+    "title_zh": "Radiologic and MRI technologists"
+  },
+  {
+    "slug": "railroad-occupations",
+    "title": "Railroad workers",
+    "title_zh": "Railroad workers"
+  },
+  {
+    "slug": "real-estate-brokers-and-sales-agents",
+    "title": "Real estate brokers and sales agents",
+    "title_zh": "Real estate brokers and sales agents"
+  },
+  {
+    "slug": "receptionists",
+    "title": "Receptionists",
+    "title_zh": "Receptionists"
+  },
+  {
+    "slug": "recreation-workers",
+    "title": "Recreation workers",
+    "title_zh": "Recreation workers"
+  },
+  {
+    "slug": "recreational-therapists",
+    "title": "Recreational therapists",
+    "title_zh": "Recreational therapists"
+  },
+  {
+    "slug": "registered-nurses",
+    "title": "Registered nurses",
+    "title_zh": "Registered nurses"
+  },
+  {
+    "slug": "rehabilitation-counselors",
+    "title": "Rehabilitation counselors",
+    "title_zh": "Rehabilitation counselors"
+  },
+  {
+    "slug": "respiratory-therapists",
+    "title": "Respiratory therapists",
+    "title_zh": "Respiratory therapists"
+  },
+  {
+    "slug": "retail-sales-workers",
+    "title": "Retail sales workers",
+    "title_zh": "Retail sales workers"
+  },
+  {
+    "slug": "roofers",
+    "title": "Roofers",
+    "title_zh": "Roofers"
+  },
+  {
+    "slug": "sales-engineers",
+    "title": "Sales engineers",
+    "title_zh": "Sales engineers"
+  },
+  {
+    "slug": "sales-managers",
+    "title": "Sales managers",
+    "title_zh": "Sales managers"
+  },
+  {
+    "slug": "school-and-career-counselors",
+    "title": "School and career counselors and advisors",
+    "title_zh": "School and career counselors and advisors"
+  },
+  {
+    "slug": "secretaries-and-administrative-assistants",
+    "title": "Secretaries and administrative assistants",
+    "title_zh": "Secretaries and administrative assistants"
+  },
+  {
+    "slug": "securities-commodities-and-financial-services-sales-agents",
+    "title": "Securities, commodities, and financial services sales agents",
+    "title_zh": "Securities, commodities, and financial services sales agents"
+  },
+  {
+    "slug": "security-guards",
+    "title": "Security guards and gambling surveillance officers",
+    "title_zh": "Security guards and gambling surveillance officers"
+  },
+  {
+    "slug": "semiconductor-processing-technicians",
+    "title": "Semiconductor processing technicians",
+    "title_zh": "Semiconductor processing technicians"
+  },
+  {
+    "slug": "set-and-exhibit-designers",
+    "title": "Set and exhibit designers",
+    "title_zh": "Set and exhibit designers"
+  },
+  {
+    "slug": "sheet-metal-workers",
+    "title": "Sheet metal workers",
+    "title_zh": "Sheet metal workers"
+  },
+  {
+    "slug": "skincare-specialists",
+    "title": "Skincare specialists",
+    "title_zh": "Skincare specialists"
+  },
+  {
+    "slug": "small-engine-mechanics",
+    "title": "Small engine mechanics",
+    "title_zh": "Small engine mechanics"
+  },
+  {
+    "slug": "social-and-community-service-managers",
+    "title": "Social and community service managers",
+    "title_zh": "Social and community service managers"
+  },
+  {
+    "slug": "social-and-human-service-assistants",
+    "title": "Social and human service assistants",
+    "title_zh": "Social and human service assistants"
+  },
+  {
+    "slug": "social-workers",
+    "title": "Social workers",
+    "title_zh": "Social workers"
+  },
+  {
+    "slug": "sociologists",
+    "title": "Sociologists",
+    "title_zh": "Sociologists"
+  },
+  {
+    "slug": "software-developers",
+    "title": "Software developers, quality assurance analysts, and testers",
+    "title_zh": "Software developers, quality assurance analysts, and testers"
+  },
+  {
+    "slug": "solar-photovoltaic-installers",
+    "title": "Solar photovoltaic installers",
+    "title_zh": "Solar photovoltaic installers"
+  },
+  {
+    "slug": "special-education-teachers",
+    "title": "Special education teachers",
+    "title_zh": "Special education teachers"
+  },
+  {
+    "slug": "multimedia-artists-and-animators",
+    "title": "Special effects artists and animators",
+    "title_zh": "Special effects artists and animators"
+  },
+  {
+    "slug": "speech-language-pathologists",
+    "title": "Speech-language pathologists",
+    "title_zh": "Speech-language pathologists"
+  },
+  {
+    "slug": "stationary-engineers-and-boiler-operators",
+    "title": "Stationary engineers and boiler operators",
+    "title_zh": "Stationary engineers and boiler operators"
+  },
+  {
+    "slug": "substance-abuse-behavioral-disorder-and-mental-health-counselors",
+    "title": "Substance abuse, behavioral disorder, and mental health counselors",
+    "title_zh": "Substance abuse, behavioral disorder, and mental health counselors"
+  },
+  {
+    "slug": "surgical-technologists",
+    "title": "Surgical assistants and technologists",
+    "title_zh": "Surgical assistants and technologists"
+  },
+  {
+    "slug": "survey-researchers",
+    "title": "Survey researchers",
+    "title_zh": "Survey researchers"
+  },
+  {
+    "slug": "surveying-and-mapping-technicians",
+    "title": "Surveying and mapping technicians",
+    "title_zh": "Surveying and mapping technicians"
+  },
+  {
+    "slug": "surveyors",
+    "title": "Surveyors",
+    "title_zh": "Surveyors"
+  },
+  {
+    "slug": "tax-examiners-and-collectors-and-revenue-agents",
+    "title": "Tax examiners and collectors, and revenue agents",
+    "title_zh": "Tax examiners and collectors, and revenue agents"
+  },
+  {
+    "slug": "taxi-drivers-and-chauffeurs",
+    "title": "Taxi drivers, shuttle drivers, and chauffeurs",
+    "title_zh": "Taxi drivers, shuttle drivers, and chauffeurs"
+  },
+  {
+    "slug": "teacher-assistants",
+    "title": "Teacher assistants",
+    "title_zh": "Teacher assistants"
+  },
+  {
+    "slug": "technical-writers",
+    "title": "Technical writers",
+    "title_zh": "Technical writers"
+  },
+  {
+    "slug": "telecommunications-equipment-installers-and-repairers-except-line-installers",
+    "title": "Telecommunications technicians",
+    "title_zh": "Telecommunications technicians"
+  },
+  {
+    "slug": "tellers",
+    "title": "Tellers",
+    "title_zh": "Tellers"
+  },
+  {
+    "slug": "top-executives",
+    "title": "Top executives",
+    "title_zh": "Top executives"
+  },
+  {
+    "slug": "tour-and-travel-guides",
+    "title": "Tour and travel guides",
+    "title_zh": "Tour and travel guides"
+  },
+  {
+    "slug": "training-and-development-managers",
+    "title": "Training and development managers",
+    "title_zh": "Training and development managers"
+  },
+  {
+    "slug": "training-and-development-specialists",
+    "title": "Training and development specialists",
+    "title_zh": "Training and development specialists"
+  },
+  {
+    "slug": "transportation-storage-and-distribution-managers",
+    "title": "Transportation, storage, and distribution managers",
+    "title_zh": "Transportation, storage, and distribution managers"
+  },
+  {
+    "slug": "travel-agents",
+    "title": "Travel agents",
+    "title_zh": "Travel agents"
+  },
+  {
+    "slug": "tutors",
+    "title": "Tutors",
+    "title_zh": "Tutors"
+  },
+  {
+    "slug": "umpires-referees-and-other-sports-officials",
+    "title": "Umpires, referees, and other sports officials",
+    "title_zh": "Umpires, referees, and other sports officials"
+  },
+  {
+    "slug": "urban-and-regional-planners",
+    "title": "Urban and regional planners",
+    "title_zh": "Urban and regional planners"
+  },
+  {
+    "slug": "veterinarians",
+    "title": "Veterinarians",
+    "title_zh": "Veterinarians"
+  },
+  {
+    "slug": "veterinary-assistants-and-laboratory-animal-caretakers",
+    "title": "Veterinary assistants and laboratory animal caretakers",
+    "title_zh": "Veterinary assistants and laboratory animal caretakers"
+  },
+  {
+    "slug": "veterinary-technologists-and-technicians",
+    "title": "Veterinary technologists and technicians",
+    "title_zh": "Veterinary technologists and technicians"
+  },
+  {
+    "slug": "waiters-and-waitresses",
+    "title": "Waiters and waitresses",
+    "title_zh": "Waiters and waitresses"
+  },
+  {
+    "slug": "water-and-wastewater-treatment-plant-and-system-operators",
+    "title": "Water and wastewater treatment plant and system operators",
+    "title_zh": "Water and wastewater treatment plant and system operators"
+  },
+  {
+    "slug": "water-transportation-occupations",
+    "title": "Water transportation workers",
+    "title_zh": "Water transportation workers"
+  },
+  {
+    "slug": "web-developers",
+    "title": "Web developers and digital designers",
+    "title_zh": "Web developers and digital designers"
+  },
+  {
+    "slug": "welders-cutters-solderers-and-brazers",
+    "title": "Welders, cutters, solderers, and brazers",
+    "title_zh": "Welders, cutters, solderers, and brazers"
+  },
+  {
+    "slug": "wholesale-and-manufacturing-sales-representatives",
+    "title": "Wholesale and manufacturing sales representatives",
+    "title_zh": "Wholesale and manufacturing sales representatives"
+  },
+  {
+    "slug": "wind-turbine-technicians",
+    "title": "Wind turbine technicians",
+    "title_zh": "Wind turbine technicians"
+  },
+  {
+    "slug": "woodworkers",
+    "title": "Woodworkers",
+    "title_zh": "Woodworkers"
+  },
+  {
+    "slug": "writers-and-authors",
+    "title": "Writers and authors",
+    "title_zh": "Writers and authors"
+  },
+  {
+    "slug": "zoologists-and-wildlife-biologists",
+    "title": "Zoologists and wildlife biologists",
+    "title_zh": "Zoologists and wildlife biologists"
+  }
+]
