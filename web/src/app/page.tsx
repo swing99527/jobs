@@ -158,8 +158,7 @@ function exposureColor(v: number | null, a: number) {
 
 function formatNumber(n: number | null) {
   if (n == null) return "—";
-  if (n >= 1e6) return (n / 1e6).toFixed(1) + "M";
-  if (n >= 1e3) return Math.round(n / 1e3) + "K";
+  if (n >= 1e4) return (n / 1e4).toFixed(1).replace(/\.0$/, "") + "万";
   return n.toLocaleString();
 }
 
@@ -264,21 +263,21 @@ export default function JobVisualizer() {
           ctx.fillStyle = "rgba(255,255,255,0.5)";
           
           let subInfo = "";
-          if (curMode === "exposure") subInfo = (r.exposure != null ? r.exposure + "/10" : "") + (r.jobs ? " · " + formatNumber(r.jobs) + " jobs" : "");
-          else if (curMode === "outlook") subInfo = (r.outlook != null ? (r.outlook > 0 ? "+" : "") + r.outlook + "%" : "") + (r.jobs ? " · " + formatNumber(r.jobs) + " jobs" : "");
-          else if (curMode === "pay") subInfo = (r.pay != null ? formatPay(r.pay) : "") + (r.jobs ? " · " + formatNumber(r.jobs) + " jobs" : "");
+          if (curMode === "exposure") subInfo = (r.exposure != null ? r.exposure + "/10" : "") + (r.jobs ? " · " + formatNumber(r.jobs) + " 个岗位" : "");
+          else if (curMode === "outlook") subInfo = (r.outlook != null ? (r.outlook > 0 ? "+" : "") + r.outlook + "%" : "") + (r.jobs ? " · " + formatNumber(r.jobs) + " 个岗位" : "");
+          else if (curMode === "pay") subInfo = (r.pay != null ? formatPay(r.pay) : "") + (r.jobs ? " · " + formatNumber(r.jobs) + " 个岗位" : "");
           else if (curMode === "education") {
             const short: Record<string, string> = {
-              "No formal educational credential": "No formal",
-              "High school diploma or equivalent": "HS diploma",
-              "Postsecondary nondegree award": "Postsecondary",
-              "Some college, no degree": "Some college",
-              "Associate's degree": "Associate's",
-              "Bachelor's degree": "Bachelor's",
-              "Master's degree": "Master's",
-              "Doctoral or professional degree": "Doctoral/Prof",
+              "No formal educational credential": "无学历要求",
+              "High school diploma or equivalent": "高中及同等学历",
+              "Postsecondary nondegree award": "大专预科",
+              "Some college, no degree": "大学肄业",
+              "Associate's degree": "副学士",
+              "Bachelor's degree": "学士",
+              "Master's degree": "硕士",
+              "Doctoral or professional degree": "博士/专业",
             };
-            subInfo = (short[r.education] || "") + (r.jobs ? " · " + formatNumber(r.jobs) + " jobs" : "");
+            subInfo = (short[r.education] || "") + (r.jobs ? " · " + formatNumber(r.jobs) + " 个岗位" : "");
           }
           ctx.fillText(subInfo, rx + 5, ry + 4 + fontSize + 2);
         }
@@ -326,10 +325,10 @@ export default function JobVisualizer() {
       }
     }, [colorMode]);
     const cfg = {
-      exposure: { low: "Low", high: "High" },
-      outlook: { low: "Declining", high: "Growing" },
+      exposure: { low: "低", high: "高" },
+      outlook: { low: "衰退", high: "增长" },
       pay: { low: "$25K", high: "$250K" },
-      education: { low: "No degree", high: "Doctoral" },
+      education: { low: "无学历要求", high: "博士/专业" },
     }[colorMode];
     return (
       <div className="flex items-center gap-[6px] text-[11px] text-[#888894]">
@@ -346,7 +345,7 @@ export default function JobVisualizer() {
       const color = exposureColor(d.exposure, 1);
       return (
         <div>
-          <span style={{color, fontWeight: 600}}>Digital AI Exposure: {d.exposure}/10</span>
+          <span style={{color, fontWeight: 600}}>AI 暴露度: {d.exposure}/10</span>
           <div className="mt-[3px] h-[4px] bg-[rgba(255,255,255,0.08)] rounded-sm">
             <div style={{height: '100%', width: `${d.exposure * 10}%`, background: color, borderRadius: '2px'}}></div>
           </div>
@@ -356,7 +355,7 @@ export default function JobVisualizer() {
       const color = outlookColor(d.outlook, 1);
       return (
         <div>
-          <span style={{color, fontWeight: 600}}>Outlook: {d.outlook > 0 ? '+' : ''}{d.outlook}%</span>
+          <span style={{color, fontWeight: 600}}>增长前景: {d.outlook > 0 ? '+' : ''}{d.outlook}%</span>
           {d.outlook_desc && <span className="text-[#888894]">({d.outlook_desc})</span>}
           <div className="mt-[3px] h-[4px] bg-[rgba(255,255,255,0.08)] rounded-sm">
             <div style={{height: '100%', width: `${Math.min(100, Math.max(0, (d.outlook + 10) / 30 * 100))}%`, background: color, borderRadius: '2px'}}></div>
@@ -367,7 +366,7 @@ export default function JobVisualizer() {
       const color = payColor(d.pay, 1);
       return (
         <div>
-          <span style={{color, fontWeight: 600}}>Median Pay: {formatPay(d.pay)}</span>
+          <span style={{color, fontWeight: 600}}>中位数薪酬: {formatPay(d.pay)}</span>
           <div className="mt-[3px] h-[4px] bg-[rgba(255,255,255,0.08)] rounded-sm">
             <div style={{height: '100%', width: `${Math.min(100, d.pay / 150000 * 100)}%`, background: color, borderRadius: '2px'}}></div>
           </div>
@@ -376,7 +375,17 @@ export default function JobVisualizer() {
     } else if (colorMode === "education") {
       const idx = EDU_LEVELS.indexOf(d.education);
       const color = idx >= 0 ? eduColor(idx, 1) : "var(--fg)";
-      return <span style={{color, fontWeight: 600}}>Education: {d.education || '—'}</span>;
+      const short: Record<string, string> = {
+        "No formal educational credential": "无学历要求",
+        "High school diploma or equivalent": "高中及同等学历",
+        "Postsecondary nondegree award": "大专预科",
+        "Some college, no degree": "大学肄业",
+        "Associate's degree": "副学士",
+        "Bachelor's degree": "学士",
+        "Master's degree": "硕士",
+        "Doctoral or professional degree": "博士/专业",
+      };
+      return <span style={{color, fontWeight: 600}}>学历要求: {short[d.education] || d.education || '—'}</span>;
     }
     return null;
   };
@@ -387,16 +396,16 @@ export default function JobVisualizer() {
         <div id="header" className="p-5 px-7 pb-4 shrink-0">
           <div className="mb-4">
             <h1 className="text-[26px] font-bold tracking-tight mb-3 flex items-center gap-3.5 flex-wrap">
-              US Job Market Visualizer <a href="https://github.com/karpathy/jobs" className="text-[13px] font-normal text-[#888894] hover:underline">GitHub</a>
+              美国就业市场可视化 <a href="https://github.com/karpathy/jobs" className="text-[13px] font-normal text-[#888894] hover:underline">GitHub</a>
             </h1>
             <p className="text-[15px] leading-relaxed text-[#888894] mb-2">
-              This is a research tool that visualizes <strong className="text-[#e0e0e8] font-semibold">342 occupations</strong> from the <a href="https://www.bls.gov/ooh/" className="text-[#888894]">Bureau of Labor Statistics Occupational Outlook Handbook</a>, covering <strong className="text-[#e0e0e8] font-semibold">143M jobs</strong> across the US economy. Each rectangle's <strong className="text-[#e0e0e8] font-semibold">area</strong> is proportional to total employment. <strong className="text-[#e0e0e8] font-semibold">Color</strong> shows the selected metric &mdash; toggle between BLS projected growth outlook, median pay, education requirements, and AI exposure. Click any tile to view its full BLS page. This is not a report, a paper, or a serious economic publication &mdash; it is a development tool for exploring BLS data visually.
+              这是一个研究工具，对来自<a href="https://www.bls.gov/ooh/" className="text-[#888894]">美国劳工统计局职业展望手册</a>的 <strong className="text-[#e0e0e8] font-semibold">342 个职业</strong> 进行可视化，涵盖了美国经济中的 <strong className="text-[#e0e0e8] font-semibold">1.43亿个工作岗位</strong>。每个矩形的<strong className="text-[#e0e0e8] font-semibold">面积</strong>与总就业人数成正比。<strong className="text-[#e0e0e8] font-semibold">颜色</strong>显示所选的指标 &mdash; 可以在美国劳工统计局预计增长前景、中位数薪酬、学历要求和人工智能暴露度之间切换。点击任何方块即可查看其完整的劳工统计局页面。这不是一份报告、论文或严肃的经济出版物 &mdash; 它是一个以可视化方式探索劳工统计局数据的开发工具。
             </p>
           </div>
 
           <div className="flex items-center gap-3.5 flex-wrap mb-3.5">
             <div className="flex flex-col gap-1">
-              <h3 className="text-[11px] font-semibold uppercase tracking-widest text-[#888894]">Layer</h3>
+              <h3 className="text-[11px] font-semibold uppercase tracking-widest text-[#888894]">图层</h3>
               <div className="flex gap-1" id="colorToggle">
                 {["outlook", "pay", "education", "exposure"].map((mode) => (
                   <button 
@@ -404,7 +413,7 @@ export default function JobVisualizer() {
                     onClick={() => setColorMode(mode as any)}
                     className={`px-3.5 py-1.5 text-xs font-medium border rounded transition-all duration-150 ${colorMode === mode ? "bg-[rgba(255,255,255,0.08)] text-[#e0e0e8] border-[rgba(255,255,255,0.2)]" : "bg-transparent text-[#888894] border-[rgba(255,255,255,0.1)] hover:bg-[rgba(255,255,255,0.04)]"}`}
                   >
-                    {mode === 'outlook' ? 'BLS Outlook' : mode === 'pay' ? 'Median Pay' : mode === 'education' ? 'Education' : 'Digital AI Exposure'}
+                    {mode === 'outlook' ? 'BLS 增长前景' : mode === 'pay' ? '中位数薪酬' : mode === 'education' ? '学历要求' : 'AI 暴露度'}
                   </button>
                 ))}
               </div>
@@ -414,8 +423,8 @@ export default function JobVisualizer() {
 
           <div className="flex flex-wrap gap-x-7 gap-y-5 items-start mb-3">
             <div className="flex flex-col gap-1">
-              <h3 className="text-[11px] font-semibold uppercase tracking-widest text-[#888894]">Total jobs</h3>
-              <div className="text-[32px] font-bold tracking-tight leading-none">{(totalJobs / 1e6).toFixed(0)}M</div>
+              <h3 className="text-[11px] font-semibold uppercase tracking-widest text-[#888894]">总岗位数</h3>
+              <div className="text-[32px] font-bold tracking-tight leading-none">{formatNumber(totalJobs)}</div>
             </div>
           </div>
         </div>
@@ -442,10 +451,22 @@ export default function JobVisualizer() {
           <div className="font-semibold text-[14px] mb-1.5 text-white">{hovered.title}</div>
           <div className="text-[12px] mb-2">{renderTooltipHighlight(hovered)}</div>
           <div className="grid grid-cols-[auto_auto] gap-x-3 gap-y-0.5 text-[12px]">
-            <span className="text-[#888894]">Median pay</span><span className="text-[#e0e0e8] text-right">{formatPay(hovered.pay)}</span>
-            <span className="text-[#888894]">Jobs (2024)</span><span className="text-[#e0e0e8] text-right">{formatNumber(hovered.jobs)}</span>
-            <span className="text-[#888894]">Outlook</span><span className="text-[#e0e0e8] text-right">{hovered.outlook != null ? hovered.outlook + '%' : '—'} {hovered.outlook_desc ? '(' + hovered.outlook_desc + ')' : ''}</span>
-            <span className="text-[#888894]">Education</span><span className="text-[#e0e0e8] text-right">{hovered.education || '—'}</span>
+            <span className="text-[#888894]">中位数薪酬</span><span className="text-[#e0e0e8] text-right">{formatPay(hovered.pay)}</span>
+            <span className="text-[#888894]">岗位数 (2024)</span><span className="text-[#e0e0e8] text-right">{formatNumber(hovered.jobs)}</span>
+            <span className="text-[#888894]">增长前景</span><span className="text-[#e0e0e8] text-right">{hovered.outlook != null ? hovered.outlook + '%' : '—'} {hovered.outlook_desc ? '(' + hovered.outlook_desc + ')' : ''}</span>
+            <span className="text-[#888894]">学历要求</span><span className="text-[#e0e0e8] text-right">{(() => {
+              const short: Record<string, string> = {
+                "No formal educational credential": "无学历要求",
+                "High school diploma or equivalent": "高中及同等学历",
+                "Postsecondary nondegree award": "大专预科",
+                "Some college, no degree": "大学肄业",
+                "Associate's degree": "副学士",
+                "Bachelor's degree": "学士",
+                "Master's degree": "硕士",
+                "Doctoral or professional degree": "博士/专业",
+              };
+              return hovered.education ? (short[hovered.education] || hovered.education) : '—';
+            })()}</span>
           </div>
           {colorMode === "exposure" && hovered.exposure_rationale && (
             <div className="text-[11px] text-[#888894] mt-2 leading-tight border-t border-[rgba(255,255,255,0.06)] pt-2">
