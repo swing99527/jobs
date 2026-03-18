@@ -22,17 +22,15 @@ API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 SYSTEM_PROMPT = """\
 You are an expert translator specializing in labor economics and occupational \
-titles. You will be given a list of US Bureau of Labor Statistics (BLS) \
-occupational titles in English.
+titles. You will be given a US Bureau of Labor Statistics (BLS) \
+occupational title in English.
 
 Your task is to provide the most accurate, natural-sounding, and standard \
-simplified Chinese translation for each title. Provide ONLY a JSON object \
-mapping the exact English title provided to its Chinese translation.
+simplified Chinese translation for the title.
 
-Respond with ONLY a JSON object returning the translation like this:
-{
-  "title_zh": "中文职业名称"
-}
+CRITICAL: You MUST respond continuously with a valid JSON object ONLY. \
+Do not include markdown code blocks or any other conversational text.
+{"title_zh": "您的中文翻译"}
 """
 
 def translate_occupation(client, title, model):
