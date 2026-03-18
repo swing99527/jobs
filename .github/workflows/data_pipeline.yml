@@ -35,6 +35,7 @@ jobs:
           uv run python process.py
           uv run python make_csv.py
           uv run python score.py
+          uv run python translate.py
           uv run python build_site_data.py
 
       - name: Commit and Push changes

@@ -6,6 +6,7 @@ import Head from "next/head";
 // Data types based on original code
 type DataRow = {
   title: string;
+  title_zh?: string;
   slug: string;
   category: string;
   pay: number | null;
@@ -257,7 +258,7 @@ export default function JobVisualizer() {
         ctx.font = `500 ${fontSize}px -apple-system, system-ui, sans-serif`;
         ctx.fillStyle = isHovered ? "#fff" : "rgba(255,255,255,0.85)";
         ctx.textBaseline = "top";
-        ctx.fillText(r.title, rx + 5, ry + 4);
+        ctx.fillText(r.title_zh || r.title, rx + 5, ry + 4);
         if (rh > 34 && rw > 60) {
           ctx.font = `400 ${Math.max(8, fontSize - 2)}px -apple-system, system-ui, sans-serif`;
           ctx.fillStyle = "rgba(255,255,255,0.5)";
@@ -448,7 +449,8 @@ export default function JobVisualizer() {
           }}
           className="fixed pointer-events-none bg-[#12121a] border border-[rgba(255,255,255,0.12)] rounded-lg p-3 px-4 text-[13px] leading-relaxed max-w-[340px] z-20 shadow-[0_8px_32px_rgba(0,0,0,0.6)]"
         >
-          <div className="font-semibold text-[14px] mb-1.5 text-white">{hovered.title}</div>
+          <div className="font-semibold text-[14px] mb-0.5 text-white">{hovered.title_zh || hovered.title}</div>
+          <div className="text-[11px] mb-2 text-[#888894] font-medium">{hovered.title}</div>
           <div className="text-[12px] mb-2">{renderTooltipHighlight(hovered)}</div>
           <div className="grid grid-cols-[auto_auto] gap-x-3 gap-y-0.5 text-[12px]">
             <span className="text-[#888894]">中位数薪酬</span><span className="text-[#e0e0e8] text-right">{formatPay(hovered.pay)}</span>

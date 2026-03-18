@@ -18,6 +18,14 @@ def main():
         scores_list = json.load(f)
     scores = {s["slug"]: s for s in scores_list}
 
+    # Load translations if they exist
+    translations = {}
+    import os
+    if os.path.exists("translations.json"):
+        with open("translations.json", encoding="utf-8") as f:
+            translations_list = json.load(f)
+            translations = {t["slug"]: t for t in translations_list}
+
     # Load CSV stats
     with open("occupations.csv") as f:
         reader = csv.DictReader(f)
@@ -28,8 +36,10 @@ def main():
     for row in rows:
         slug = row["slug"]
         score = scores.get(slug, {})
+        translation = translations.get(slug, {})
         data.append({
             "title": row["title"],
+            "title_zh": translation.get("title_zh", row["title"]),
             "slug": slug,
             "category": row["category"],
             "pay": int(row["median_pay_annual"]) if row["median_pay_annual"] else None,
