@@ -37,7 +37,7 @@
   {
     "slug": "aerospace-engineering-and-operations-technicians",
     "title": "Aerospace engineering and operations technologists and technicians",
-    "title_zh": "航空航天工程与操作技术员"
+    "title_zh": "航空航天工程与运营技术员"
   },
   {
     "slug": "aerospace-engineers",
@@ -72,12 +72,12 @@
   {
     "slug": "aircraft-and-avionics-equipment-mechanics-and-technicians",
     "title": "Aircraft and avionics equipment mechanics and technicians",
-    "title_zh": "航空器及航空电子设备维修师与技术员"
+    "title_zh": "航空器与航空电子设备维修师及技术员"
   },
   {
     "slug": "airline-and-commercial-pilots",
     "title": "Airline and commercial pilots",
-    "title_zh": "航空公司及商业飞行员"
+    "title_zh": "航空运输和商业飞行员"
   },
   {
     "slug": "animal-care-and-service-workers",
@@ -202,7 +202,7 @@
   {
     "slug": "broadcast-and-sound-engineering-technicians",
     "title": "Broadcast, sound, and video technicians",
-    "title_zh": "广播、音响和视频技术人员"
+    "title_zh": "广播、音响和视频技术员"
   },
   {
     "slug": "budget-analysts",
@@ -222,7 +222,7 @@
   {
     "slug": "calibration-technologists-and-technicians",
     "title": "Calibration technologists and technicians",
-    "title_zh": "校准技术员与技术人员"
+    "title_zh": "校准技术员"
   },
   {
     "slug": "cardiovascular-technologists-and-technicians",
@@ -382,7 +382,7 @@
   {
     "slug": "construction-laborers-and-helpers",
     "title": "Construction laborers and helpers",
-    "title_zh": "建筑工人和助手"
+    "title_zh": "建筑普工与助手"
   },
   {
     "slug": "construction-managers",
@@ -407,7 +407,7 @@
   {
     "slug": "court-reporters",
     "title": "Court reporters and simultaneous captioners",
-    "title_zh": "法庭速记员与同步字幕员"
+    "title_zh": "法庭速记员和同步字幕员"
   },
   {
     "slug": "craft-and-fine-artists",
@@ -532,7 +532,7 @@
   {
     "slug": "electro-mechanical-technicians",
     "title": "Electro-mechanical and mechatronics technologists and technicians",
-    "title_zh": "机电工程技术人员"
+    "title_zh": "机电工程与机电一体化技术员"
   },
   {
     "slug": "elementary-middle-and-high-school-principals",
@@ -552,7 +552,7 @@
   {
     "slug": "emts-and-paramedics",
     "title": "EMTs and paramedics",
-    "title_zh": "急救医疗技师和急救人员"
+    "title_zh": "急救医疗技术员和急救人员"
   },
   {
     "slug": "entertainment-and-recreation-managers",
@@ -657,7 +657,7 @@
   {
     "slug": "floral-designers",
     "title": "Floral designers",
-    "title_zh": "花艺师"
+    "title_zh": "花艺设计师"
   },
   {
     "slug": "food-and-beverage-serving-and-related-workers",
@@ -747,7 +747,7 @@
   {
     "slug": "grounds-maintenance-workers",
     "title": "Grounds maintenance workers",
-    "title_zh": "园林绿化和场地维护人员"
+    "title_zh": "园林绿化与场地维护人员"
   },
   {
     "slug": "hand-laborers-and-material-movers",
@@ -757,7 +757,7 @@
   {
     "slug": "hazardous-materials-removal-workers",
     "title": "Hazardous materials removal workers",
-    "title_zh": "危险材料清除工人"
+    "title_zh": "危险材料处理人员"
   },
   {
     "slug": "health-and-safety-engineers",
@@ -827,7 +827,7 @@
   {
     "slug": "industrial-engineering-technicians",
     "title": "Industrial engineering technologists and technicians",
-    "title_zh": "工业工程技术员与技术助理"
+    "title_zh": "工业工程技术员"
   },
   {
     "slug": "industrial-engineers",
@@ -962,7 +962,7 @@
   {
     "slug": "machinists-and-tool-and-die-makers",
     "title": "Machinists and tool and die makers",
-    "title_zh": "机床工和模具制造工"
+    "title_zh": "机械师和模具制造工"
   },
   {
     "slug": "management-analysts",
@@ -1022,7 +1022,7 @@
   {
     "slug": "mechanical-engineering-technicians",
     "title": "Mechanical engineering technologists and technicians",
-    "title_zh": "机械工程技术员与技术人员"
+    "title_zh": "机械工程技术员与技术助理"
   },
   {
     "slug": "mechanical-engineers",
@@ -1132,7 +1132,7 @@
   {
     "slug": "nuclear-medicine-technologists",
     "title": "Nuclear medicine technologists",
-    "title_zh": "核医学技师"
+    "title_zh": "核医学技术人员"
   },
   {
     "slug": "nuclear-technicians",
@@ -1162,7 +1162,7 @@
   {
     "slug": "occupational-therapy-assistants-and-aides",
     "title": "Occupational therapy assistants and aides",
-    "title_zh": "作业治疗助理与助手"
+    "title_zh": "职业治疗助理与辅助人员"
   },
   {
     "slug": "oil-and-gas-workers",
@@ -1192,7 +1192,7 @@
   {
     "slug": "painters-construction-and-maintenance",
     "title": "Painters, construction and maintenance",
-    "title_zh": "油漆工（建筑及维护）"
+    "title_zh": "油漆工（建筑与维护）"
   },
   {
     "slug": "painting-and-coating-workers",
