@@ -17,7 +17,7 @@
   {
     "slug": "administrative-services-managers",
     "title": "Administrative services and facilities managers",
-    "title_zh": "行政服务和设施经理"
+    "title_zh": "行政服务与设施经理"
   },
   {
     "slug": "adult-literacy-and-ged-teachers",
@@ -37,7 +37,7 @@
   {
     "slug": "aerospace-engineering-and-operations-technicians",
     "title": "Aerospace engineering and operations technologists and technicians",
-    "title_zh": "航空航天工程与运营技术员"
+    "title_zh": "航空航天工程与操作技术员"
   },
   {
     "slug": "aerospace-engineers",
@@ -72,7 +72,7 @@
   {
     "slug": "aircraft-and-avionics-equipment-mechanics-and-technicians",
     "title": "Aircraft and avionics equipment mechanics and technicians",
-    "title_zh": "航空器与航空电子设备维修师及技术员"
+    "title_zh": "航空器及航空电子设备维修师与技术员"
   },
   {
     "slug": "airline-and-commercial-pilots",
@@ -222,7 +222,7 @@
   {
     "slug": "calibration-technologists-and-technicians",
     "title": "Calibration technologists and technicians",
-    "title_zh": "校准技术员"
+    "title_zh": "校准技术员与技术人员"
   },
   {
     "slug": "cardiovascular-technologists-and-technicians",
@@ -382,7 +382,7 @@
   {
     "slug": "construction-laborers-and-helpers",
     "title": "Construction laborers and helpers",
-    "title_zh": "建筑普工与助手"
+    "title_zh": "建筑工人和助手"
   },
   {
     "slug": "construction-managers",
@@ -407,7 +407,7 @@
   {
     "slug": "court-reporters",
     "title": "Court reporters and simultaneous captioners",
-    "title_zh": "法庭速记员和同步字幕员"
+    "title_zh": "法庭速记员与同步字幕员"
   },
   {
     "slug": "craft-and-fine-artists",
@@ -532,7 +532,7 @@
   {
     "slug": "electro-mechanical-technicians",
     "title": "Electro-mechanical and mechatronics technologists and technicians",
-    "title_zh": "机电工程与机电一体化技术员"
+    "title_zh": "机电工程技术人员"
   },
   {
     "slug": "elementary-middle-and-high-school-principals",
@@ -562,7 +562,7 @@
   {
     "slug": "environmental-engineering-technicians",
     "title": "Environmental engineering technologists and technicians",
-    "title_zh": "环境工程技术员与技术人员"
+    "title_zh": "环境工程技术员"
   },
   {
     "slug": "environmental-engineers",
@@ -642,7 +642,7 @@
   {
     "slug": "fitness-trainers-and-instructors",
     "title": "Fitness trainers and instructors",
-    "title_zh": "健身训练师与指导员"
+    "title_zh": "健身训练师和指导员"
   },
   {
     "slug": "flight-attendants",
@@ -657,7 +657,7 @@
   {
     "slug": "floral-designers",
     "title": "Floral designers",
-    "title_zh": "花艺设计师"
+    "title_zh": "花艺师"
   },
   {
     "slug": "food-and-beverage-serving-and-related-workers",
@@ -827,7 +827,7 @@
   {
     "slug": "industrial-engineering-technicians",
     "title": "Industrial engineering technologists and technicians",
-    "title_zh": "工业工程技术员"
+    "title_zh": "工业工程技术员与技术助理"
   },
   {
     "slug": "industrial-engineers",
@@ -992,7 +992,7 @@
   {
     "slug": "brickmasons-blockmasons-and-stonemasons",
     "title": "Masonry workers",
-    "title_zh": "砌筑工"
+    "title_zh": "砌体工"
   },
   {
     "slug": "massage-therapists",
@@ -1147,7 +1147,7 @@
   {
     "slug": "nursing-assistants",
     "title": "Nursing assistants and orderlies",
-    "title_zh": "护理员与勤杂工"
+    "title_zh": "护理员与护工"
   },
   {
     "slug": "occupational-health-and-safety-specialists-and-technicians",
@@ -1162,7 +1162,7 @@
   {
     "slug": "occupational-therapy-assistants-and-aides",
     "title": "Occupational therapy assistants and aides",
-    "title_zh": "职业治疗助理与辅助人员"
+    "title_zh": "作业治疗助理与助手"
   },
   {
     "slug": "oil-and-gas-workers",
