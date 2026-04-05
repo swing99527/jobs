@@ -17,7 +17,7 @@
   {
     "slug": "administrative-services-managers",
     "title": "Administrative services and facilities managers",
-    "title_zh": "行政服务与设施经理"
+    "title_zh": "行政服务和设施经理"
   },
   {
     "slug": "adult-literacy-and-ged-teachers",
@@ -37,7 +37,7 @@
   {
     "slug": "aerospace-engineering-and-operations-technicians",
     "title": "Aerospace engineering and operations technologists and technicians",
-    "title_zh": "航空航天工程与操作技术员"
+    "title_zh": "航空航天工程与操作工艺师及技术员"
   },
   {
     "slug": "aerospace-engineers",
@@ -72,7 +72,7 @@
   {
     "slug": "aircraft-and-avionics-equipment-mechanics-and-technicians",
     "title": "Aircraft and avionics equipment mechanics and technicians",
-    "title_zh": "航空器及航空电子设备维修师与技术员"
+    "title_zh": "航空器与航空电子设备维修师及技术员"
   },
   {
     "slug": "airline-and-commercial-pilots",
@@ -87,7 +87,7 @@
   {
     "slug": "announcers",
     "title": "Announcers and DJs",
-    "title_zh": "播音员与唱片骑师"
+    "title_zh": "播音员与电台节目主持人"
   },
   {
     "slug": "anthropologists-and-archeologists",
@@ -202,7 +202,7 @@
   {
     "slug": "broadcast-and-sound-engineering-technicians",
     "title": "Broadcast, sound, and video technicians",
-    "title_zh": "广播、音响和视频技术员"
+    "title_zh": "广播、音响和视频技术人员"
   },
   {
     "slug": "budget-analysts",
@@ -267,7 +267,7 @@
   {
     "slug": "chemists-and-materials-scientists",
     "title": "Chemists and materials scientists",
-    "title_zh": "化学家和材料科学家"
+    "title_zh": "化学家与材料科学家"
   },
   {
     "slug": "childcare-workers",
@@ -302,7 +302,7 @@
   {
     "slug": "coaches-and-scouts",
     "title": "Coaches and scouts",
-    "title_zh": "教练员与球探"
+    "title_zh": "教练员和球探"
   },
   {
     "slug": "community-health-workers",
@@ -317,7 +317,7 @@
   {
     "slug": "compensation-benefits-and-job-analysis-specialists",
     "title": "Compensation, benefits, and job analysis specialists",
-    "title_zh": "薪酬、福利与工作分析专员"
+    "title_zh": "薪酬、福利与工作分析专家"
   },
   {
     "slug": "compliance-officers",
@@ -367,7 +367,7 @@
   {
     "slug": "conservation-scientists",
     "title": "Conservation scientists and foresters",
-    "title_zh": "保护科学家和林业工作者"
+    "title_zh": "保护科学家和林业员"
   },
   {
     "slug": "construction-and-building-inspectors",
@@ -382,12 +382,12 @@
   {
     "slug": "construction-laborers-and-helpers",
     "title": "Construction laborers and helpers",
-    "title_zh": "建筑工人和助手"
+    "title_zh": "建筑普工与助手"
   },
   {
     "slug": "construction-managers",
     "title": "Construction managers",
-    "title_zh": "工程项目经理"
+    "title_zh": "工程建设经理"
   },
   {
     "slug": "cooks",
@@ -407,7 +407,7 @@
   {
     "slug": "court-reporters",
     "title": "Court reporters and simultaneous captioners",
-    "title_zh": "法庭速记员与同步字幕员"
+    "title_zh": "法庭速记员和同步字幕员"
   },
   {
     "slug": "craft-and-fine-artists",
@@ -417,7 +417,7 @@
   {
     "slug": "credit-counselors",
     "title": "Credit counselors",
-    "title_zh": "信贷咨询师"
+    "title_zh": "信贷顾问"
   },
   {
     "slug": "customer-service-representatives",
@@ -482,7 +482,7 @@
   {
     "slug": "dietitians-and-nutritionists",
     "title": "Dietitians and nutritionists",
-    "title_zh": "膳食营养师和营养师"
+    "title_zh": "膳食营养师"
   },
   {
     "slug": "drafters",
@@ -492,7 +492,7 @@
   {
     "slug": "drywall-and-ceiling-tile-installers-and-tapers",
     "title": "Drywall installers, ceiling tile installers, and tapers",
-    "title_zh": "干壁安装工、天花板瓷砖安装工及接缝工"
+    "title_zh": "石膏板安装工、天花板吊顶工及接缝工"
   },
   {
     "slug": "economists",
@@ -517,12 +517,12 @@
   {
     "slug": "electrical-and-electronics-installers-and-repairers",
     "title": "Electrical and electronics installers and repairers",
-    "title_zh": "电气和电子设备安装及修理人员"
+    "title_zh": "电气和电子设备安装及修理工"
   },
   {
     "slug": "line-installers-and-repairers",
     "title": "Electrical power-line installers and repairers",
-    "title_zh": "电力线路安装工和修理工"
+    "title_zh": "电力线路安装和修理工"
   },
   {
     "slug": "electricians",
@@ -552,7 +552,7 @@
   {
     "slug": "emts-and-paramedics",
     "title": "EMTs and paramedics",
-    "title_zh": "急救医疗技术员和急救人员"
+    "title_zh": "急救医疗技师和急救人员"
   },
   {
     "slug": "entertainment-and-recreation-managers",
@@ -562,7 +562,7 @@
   {
     "slug": "environmental-engineering-technicians",
     "title": "Environmental engineering technologists and technicians",
-    "title_zh": "环境工程技术员"
+    "title_zh": "环境工程技术员与技术人员"
   },
   {
     "slug": "environmental-engineers",
@@ -652,7 +652,7 @@
   {
     "slug": "tile-and-marble-setters",
     "title": "Flooring installers and tile and stone setters",
-    "title_zh": "地板安装工及瓷砖和石材铺设工"
+    "title_zh": "地面铺装工及瓷砖石材安装工"
   },
   {
     "slug": "floral-designers",
@@ -687,7 +687,7 @@
   {
     "slug": "forest-and-conservation-workers",
     "title": "Forest and conservation workers",
-    "title_zh": "森林和保育工作人员"
+    "title_zh": "森林和自然保护工作人员"
   },
   {
     "slug": "fundraisers",
@@ -697,7 +697,7 @@
   {
     "slug": "funeral-service-occupations",
     "title": "Funeral service workers",
-    "title_zh": "殡葬服务人员"
+    "title_zh": "殡葬服务从业人员"
   },
   {
     "slug": "gaming-services-occupations",
@@ -747,7 +747,7 @@
   {
     "slug": "grounds-maintenance-workers",
     "title": "Grounds maintenance workers",
-    "title_zh": "园林绿化与场地维护人员"
+    "title_zh": "园林绿化和场地维护人员"
   },
   {
     "slug": "hand-laborers-and-material-movers",
@@ -777,7 +777,7 @@
   {
     "slug": "heating-air-conditioning-and-refrigeration-mechanics-and-installers",
     "title": "Heating, air conditioning, and refrigeration mechanics and installers",
-    "title_zh": "暖通空调和制冷机械师及安装人员"
+    "title_zh": "暖通空调和制冷机械师及安装工"
   },
   {
     "slug": "heavy-and-tractor-trailer-truck-drivers",
@@ -932,12 +932,12 @@
   {
     "slug": "library-technicians-and-assistants",
     "title": "Library technicians and assistants",
-    "title_zh": "图书馆技术员与助理"
+    "title_zh": "图书馆技术员和助理"
   },
   {
     "slug": "licensed-practical-and-licensed-vocational-nurses",
     "title": "Licensed practical and licensed vocational nurses",
-    "title_zh": "执业护士与执业职业护士"
+    "title_zh": "执照执业护士与执照职业护士"
   },
   {
     "slug": "loan-officers",
@@ -962,7 +962,7 @@
   {
     "slug": "machinists-and-tool-and-die-makers",
     "title": "Machinists and tool and die makers",
-    "title_zh": "机械师和模具制造工"
+    "title_zh": "机床工及模具制造工"
   },
   {
     "slug": "management-analysts",
@@ -992,7 +992,7 @@
   {
     "slug": "brickmasons-blockmasons-and-stonemasons",
     "title": "Masonry workers",
-    "title_zh": "砌体工"
+    "title_zh": "砌筑工"
   },
   {
     "slug": "massage-therapists",
@@ -1062,7 +1062,7 @@
   {
     "slug": "medical-transcriptionists",
     "title": "Medical transcriptionists",
-    "title_zh": "医疗听写记录员"
+    "title_zh": "医疗速录员"
   },
   {
     "slug": "meeting-convention-and-event-planners",
@@ -1132,7 +1132,7 @@
   {
     "slug": "nuclear-medicine-technologists",
     "title": "Nuclear medicine technologists",
-    "title_zh": "核医学技术人员"
+    "title_zh": "核医学技师"
   },
   {
     "slug": "nuclear-technicians",
@@ -1162,7 +1162,7 @@
   {
     "slug": "occupational-therapy-assistants-and-aides",
     "title": "Occupational therapy assistants and aides",
-    "title_zh": "作业治疗助理与助手"
+    "title_zh": "职业治疗助理与助手"
   },
   {
     "slug": "oil-and-gas-workers",
@@ -1172,7 +1172,7 @@
   {
     "slug": "operations-research-analysts",
     "title": "Operations research analysts",
-    "title_zh": "运筹学分析师"
+    "title_zh": "运筹分析师"
   },
   {
     "slug": "opticians-dispensing",
@@ -1192,7 +1192,7 @@
   {
     "slug": "painters-construction-and-maintenance",
     "title": "Painters, construction and maintenance",
-    "title_zh": "油漆工（建筑与维护）"
+    "title_zh": "建筑和维护油漆工"
   },
   {
     "slug": "painting-and-coating-workers",
@@ -1372,12 +1372,12 @@
   {
     "slug": "purchasing-managers-buyers-and-purchasing-agents",
     "title": "Purchasing managers, buyers, and purchasing agents",
-    "title_zh": "采购经理、买手及采购代理"
+    "title_zh": "采购经理、采购员及采购代理"
   },
   {
     "slug": "quality-control-inspectors",
     "title": "Quality control inspectors",
-    "title_zh": "质量控制检验员"
+    "title_zh": "质量检验员"
   },
   {
     "slug": "radiation-therapists",
@@ -1502,7 +1502,7 @@
   {
     "slug": "social-and-human-service-assistants",
     "title": "Social and human service assistants",
-    "title_zh": "社会和人类服务助理"
+    "title_zh": "社会与人类服务助理"
   },
   {
     "slug": "social-workers",
@@ -1637,7 +1637,7 @@
   {
     "slug": "umpires-referees-and-other-sports-officials",
     "title": "Umpires, referees, and other sports officials",
-    "title_zh": "裁判员、裁判及其他体育官员"
+    "title_zh": "裁判员、仲裁员及其他体育官员"
   },
   {
     "slug": "urban-and-regional-planners",
