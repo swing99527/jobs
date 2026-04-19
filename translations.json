@@ -37,7 +37,7 @@
   {
     "slug": "aerospace-engineering-and-operations-technicians",
     "title": "Aerospace engineering and operations technologists and technicians",
-    "title_zh": "航空航天工程与操作工艺师及技术员"
+    "title_zh": "航空航天工程与操作技术员"
   },
   {
     "slug": "aerospace-engineers",
@@ -202,7 +202,7 @@
   {
     "slug": "broadcast-and-sound-engineering-technicians",
     "title": "Broadcast, sound, and video technicians",
-    "title_zh": "广播、音响和视频技术人员"
+    "title_zh": "广播、音响和视频技术员"
   },
   {
     "slug": "budget-analysts",
@@ -252,7 +252,7 @@
   {
     "slug": "chefs-and-head-cooks",
     "title": "Chefs and head cooks",
-    "title_zh": "主厨与厨师长"
+    "title_zh": "厨师长与主厨"
   },
   {
     "slug": "chemical-engineers",
@@ -292,7 +292,7 @@
   {
     "slug": "claims-adjusters-appraisers-examiners-and-investigators",
     "title": "Claims adjusters, appraisers, examiners, and investigators",
-    "title_zh": "理赔核定员、估价员、检查员和调查员"
+    "title_zh": "理赔核定师、估价师、检查员和调查员"
   },
   {
     "slug": "clinical-laboratory-technologists-and-technicians",
@@ -492,7 +492,7 @@
   {
     "slug": "drywall-and-ceiling-tile-installers-and-tapers",
     "title": "Drywall installers, ceiling tile installers, and tapers",
-    "title_zh": "干壁安装工、天花板吊顶工及接缝工"
+    "title_zh": "石膏板安装工、天花板吊顶工及接缝工"
   },
   {
     "slug": "economists",
@@ -522,7 +522,7 @@
   {
     "slug": "line-installers-and-repairers",
     "title": "Electrical power-line installers and repairers",
-    "title_zh": "电力线路安装与修理工"
+    "title_zh": "电力线路安装和修理工"
   },
   {
     "slug": "electricians",
@@ -562,7 +562,7 @@
   {
     "slug": "environmental-engineering-technicians",
     "title": "Environmental engineering technologists and technicians",
-    "title_zh": "环境工程技术员与技术人员"
+    "title_zh": "环境工程技术员"
   },
   {
     "slug": "environmental-engineers",
@@ -697,7 +697,7 @@
   {
     "slug": "funeral-service-occupations",
     "title": "Funeral service workers",
-    "title_zh": "殡葬服务从业人员"
+    "title_zh": "殡葬服务人员"
   },
   {
     "slug": "gaming-services-occupations",
@@ -787,7 +787,7 @@
   {
     "slug": "heavy-vehicle-and-mobile-equipment-service-technicians",
     "title": "Heavy vehicle and mobile equipment service technicians",
-    "title_zh": "重型车辆及移动设备维修技师"
+    "title_zh": "重型车辆及移动设备维修技术人员"
   },
   {
     "slug": "high-school-teachers",
@@ -837,7 +837,7 @@
   {
     "slug": "industrial-machinery-mechanics-and-maintenance-workers-and-millwrights",
     "title": "Industrial machinery mechanics, machinery maintenance workers, and millwrights",
-    "title_zh": "工业机械修理工、机械维护工及装配修理工"
+    "title_zh": "工业机械修理工、机械维护工及装配钳工"
   },
   {
     "slug": "industrial-production-managers",
@@ -962,7 +962,7 @@
   {
     "slug": "machinists-and-tool-and-die-makers",
     "title": "Machinists and tool and die makers",
-    "title_zh": "机械师、模具工和工具制造工"
+    "title_zh": "机床工及模具制造工"
   },
   {
     "slug": "management-analysts",
@@ -1022,7 +1022,7 @@
   {
     "slug": "mechanical-engineering-technicians",
     "title": "Mechanical engineering technologists and technicians",
-    "title_zh": "机械工程技术员与技术助理"
+    "title_zh": "机械工程技术员与技术人员"
   },
   {
     "slug": "mechanical-engineers",
@@ -1147,7 +1147,7 @@
   {
     "slug": "nursing-assistants",
     "title": "Nursing assistants and orderlies",
-    "title_zh": "护理员与勤杂工"
+    "title_zh": "护理员与护工"
   },
   {
     "slug": "occupational-health-and-safety-specialists-and-technicians",
@@ -1202,7 +1202,7 @@
   {
     "slug": "paralegals-and-legal-assistants",
     "title": "Paralegals and legal assistants",
-    "title_zh": "法律助理和法律辅助人员"
+    "title_zh": "律师助理及法律助理"
   },
   {
     "slug": "personal-financial-advisors",
@@ -1537,7 +1537,7 @@
   {
     "slug": "speech-language-pathologists",
     "title": "Speech-language pathologists",
-    "title_zh": "言语语言病理学家"
+    "title_zh": "语言病理学专业人员"
   },
   {
     "slug": "stationary-engineers-and-boiler-operators",
